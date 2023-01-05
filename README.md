@@ -7,3 +7,10 @@ Team- Chiara, Lynmar, Andre, Karen, Emerson
 OBJECTIVE:
 - Creating a Filipino Recipe Recommender through a Network Graph, that will help 
 user find dishes with many connections, therefore saving money on ingredients.
+
+
+Skills Demonstrated:
+- Webscraping
+- NLP Preprocessing
+- Cosine Similarity Measures
+- Network Analysis
